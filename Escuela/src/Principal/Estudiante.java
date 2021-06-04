@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import javax.swing.JOptionPane;
 
 public class Estudiante extends Persona {
-//comentarios
+//Dania Benavides
     private String id;
     private String grado;
     private String calis;
