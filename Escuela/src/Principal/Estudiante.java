@@ -2,7 +2,7 @@ package Principal;
 
 import java.util.ArrayList;
 import javax.swing.JOptionPane;
-
+//Hola soy José Raymundo Baca Hernández
 public class Estudiante extends Persona {
 
     private String id;
